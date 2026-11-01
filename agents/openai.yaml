@@ -1,0 +1,4 @@
+interface:
+  display_name: "理解与表达设计"
+  short_description: "在不丢失重要信息与依据的前提下，让复杂内容更容易理解、核验和行动"
+  default_prompt: "请使用 $clear-output，为目标读者重新组织这份内容，保留重要数据、边界和来源，并选择最小充分的表达形式。"
